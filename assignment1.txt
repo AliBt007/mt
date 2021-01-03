@@ -1,3 +1,9 @@
 hello world
 Ali bakhtiary
 991113012
+all work on assignments must be done individually unless started otherwise.you are encouraged to discuss with your classmates about the given assignments
+but these discussions should be carried out in an abstract way.that is discussions related to a particular solution to a specific problem(either in  actual code or
+in the pseudocode)will not be toleratde.ln short turning in someone else s work,in whole or in part,as your own will be considerednas a violation of academic integrity.please
+note that the former condition also holds for the material found on the web as everything on the web has been written by someone else.
+l acknowledge that l have fully read and understood the contents of the course; l will not share my work(not even a part of it) on telegram; l will be responsible for what has been discussed/asked
+on my telegram; l understand that if l have any questions or concerns about the course mechanics,it is my responsibility to discuss them with the instructors within their office hour.
